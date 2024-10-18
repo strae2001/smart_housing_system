@@ -3,7 +3,7 @@
 #### 介绍
 基于stm32C8T6采用HAL库开发的智能家居控制系统
 
-系统演示：
+#### 系统演示：
 通过网盘分享的文件：智能家居.mp4
 链接: https://pan.baidu.com/s/1mnUwvxC7LMoTTngCIqryfw?pwd=cc68 提取码: cc68
 
